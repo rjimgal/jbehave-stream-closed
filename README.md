@@ -10,4 +10,4 @@ For Eclipse, you can follow: http://stackoverflow.com/questions/3066199/eclipse-
 
 Then in `TestRunner` Class, `Debug As` -> `JUnit Test`
 
-An `IOException` will be thrown in `PrintStream` Class, due to `OutputStream` already closed. Exception is silently catch by `PrintStream` which only mark trouble flag.
+An `IOException` will be thrown in `PrintStream` Class, due to `OutputStream` already closed. Exception is silently catch by `PrintStream` which only marks trouble flag.
